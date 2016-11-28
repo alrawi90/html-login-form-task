@@ -135,6 +135,22 @@ footer {
 }
 .Footerwrapper{
     max-width: 100%;
-    margin-top: 20px;margin-bottom: 0px;
+    height: 40px;
+    margin-top: 30px;margin-bottom: 0px;
     font-size: 0.7em;
+    padding-top: 30px;
 }
+#footer_left{
+  float:left;margin-left:15%;
+
+}
+#footer_right{
+  float:right;margin-right:15%;
+
+}
+#love{color: red}
+#symbol{color:aqua}
+.Footerwrapper div a {  color:#575a5e}
+.Footerwrapper div a:hover {  color:#0d0f11}
+#footer_right a{font-weight: bold}
+#footer_right a:hover{color:#0d0f11}
