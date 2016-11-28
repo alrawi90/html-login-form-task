@@ -38,6 +38,8 @@ h4{  padding-left: 6px;}
   border: 1px solid #c5c6be;
   border-radius: 4px 4px;
 }
+/*############################## FORM Style####################### */
+
 .input_label{
   height: auto;
   width: auto;
@@ -69,6 +71,7 @@ form{
   border-color: #c5c6be;
   padding: 10px 3px;
   margin-bottom: 7px;
+  background-color: #fcfdff;
   /*box-shadow: #276873; */
 }
 #login{
@@ -94,6 +97,7 @@ input{
   border-style: none;
   outline:none;
   margin: 4px;
+  background-color: #fcfdff
 }
 a{
   text-decoration: none;
@@ -127,6 +131,7 @@ table{
   margin-top: 5px;margin-bottom: 5px;
   width: 100%;
 }
+/*############################## FOOTER Style####################### */
 footer {
     text-align: center;
     width: 100%;
