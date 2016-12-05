@@ -154,22 +154,13 @@ footer {
     padding-top: 1em;
     background-color: #fff;
 }
-#footer_left{
-  width: 20em;
 
-}
-#terms{
-  width: 20em;
-
-}
-#footer_right{
-  width: 20em;
-
-}
 .footer_elm{
   display: inline-block;
   margin-top: 2%;
   margin-bottom: 1%;
+  width: 20em;
+
 }
 #love{color: red}
 #symbol{color:aqua}
@@ -187,7 +178,10 @@ footer {
 .Footerwrapper{
   width: 350px;
   margin: 0 auto;}
-  footer{width:400px;margin: 0 auto;}
+  footer{
+    margin-left: 15%;;
+
+  }
 
 .footer_elm{
   display: inline-grid;
