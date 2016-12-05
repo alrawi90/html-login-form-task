@@ -2,6 +2,9 @@ body{        background-color: #f6f7f4;
   font-family: 'Open Sans', sans-serif;
   color:#535c60;
 }
+*, *:before, *:after {
+  box-sizing: border-box;
+}
 .clearfix :after{
     content: ".";
     display: block;
