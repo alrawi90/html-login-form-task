@@ -175,14 +175,14 @@ footer {
 #footer_right a:hover{color:#0d0f11}
 @media only screen and (max-width:921px) {
 .wrapper{
-  width: 400px;
+  width: 350px;
 }
 
 }
 @media only screen and (max-width:715px){
 .Footerwrapper{
-  width: 400px;
-  margin: 0 auto;}
+  width: 350px;
+  margin: 0 10%;}
 .footer_elm{
   display: inline-grid;
 
