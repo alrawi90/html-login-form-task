@@ -180,7 +180,9 @@ footer {
 
 }
 @media only screen and (max-width:715px){
-.Footerwrapper{width: 370px;margin: 0 auto;}
+.Footerwrapper{
+  width: 400px;
+  margin: 0 auto;}
 .footer_elm{
   display: inline-grid;
 
